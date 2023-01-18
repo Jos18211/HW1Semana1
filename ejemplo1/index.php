@@ -36,6 +36,8 @@
         #=> asiganar valore a los array
         # -> POO, en lugar del punto 
 
+
+        
         echo "<h4>print_r</h4>";
         print_r($mi_array);
 
